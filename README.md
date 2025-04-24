@@ -1,8 +1,4 @@
 
-# **Tabla de contenido**
-
-[TOC]
-
 # Despliegue de sitio web estático en Minikube con Kubernetes
 
 ### Estructura del proyecto 🧱 
